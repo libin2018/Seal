@@ -4,5 +4,5 @@
 
 
 
-![Image text](/Seal/demo/demo.gif)
+![Image text](https://github.com/libin2018/Seal/blob/master/demo/demo.gif)
 
